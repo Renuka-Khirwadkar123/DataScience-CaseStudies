@@ -14,3 +14,14 @@
 
 8. Lastly, I created a crosstab of Sales vs Profit quintiles. This was helpful to see which customers are high in both or only in one. It made me think more analytically, not just technically.
 
+
+Tech stack used:
+
+1. Python
+2. Numpy
+3. Pandas
+4. Seaborn
+5. Pandas
+6. Matplotlib
+7. Jupyter notebook in visual studio code.
+
